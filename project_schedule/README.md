@@ -15,10 +15,10 @@ End Time:   October 17, 2016 TBD
   - [x] Comment code                                                                                    (  October 17, 2016  12:31am )
 
 ##PCB Design
-  - [ ] Spec out the relevant components                                                                
+  - [x] Spec out the relevant components                                                                
   - [ ] Calculate the power requirements on the circuit and validate battery consumption and life      
-  - [ ] Create and modularize the circuit schematic on Eagle
-  - [ ] Plan the Board Design for the PCB, and create a price estimate for the board
+  - [x] Create and modularize the circuit schematic on Eagle
+  - [x] Plan the Board Design for the PCB, and create a price estimate for the board
   - [ ] Create a price list for the PCB
 
 ##Hardware Modeling
