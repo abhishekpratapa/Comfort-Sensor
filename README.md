@@ -27,6 +27,7 @@ I began rummaging through my electronics and I managed to find a few components 
 - Battery Management Unit
 - Switch
 - DHT22 Humidity and Temperature Sensor
+- LiPo Battery
 
 ![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Neo_pixels.jpg?raw=true "Neo Pixels")
 Neo Pixel Ring
@@ -43,34 +44,40 @@ Switch
 ![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/DHT22_sensor.jpg?raw=true "DHT22 Humidity and Temperature Sensor")
 DHT22 Humidity and Temperature Sensor
 
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Lipo_battery.jpg?raw=true "Battery")
+LiPo Battery
+
 #### Tools used to build the Prototype
 
 - Flush Cutters
 - Soldering Iron
 
-![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Flush_cutters.jpg?raw=true "Power Switch")
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Flush_cutters.jpg?raw=true "Flush Cutters")
 Flush Cutters
 
-![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Soldering_iron.jpg?raw=true "Power Switch")
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Soldering_iron.jpg?raw=true "Soldering Iron")
 Soldering Iron
 
 ### Planing the wiring Diagram
 
 Below is a figure of the wiring diagram I created. It is fairly simple.
 
-`TODO: Upload a wiring diagram`
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Wiring_Diagram.png?raw=true "Wiring Diagram")
+Wiring Diagram
 
 ### Wiring up the Prototype
 
 I ended up wiring the device up before I tested it, I had run out of breadboards, and generally this is a horrible idea; however, this was not my first rodeo. I felt confident that I knew what I was doing. Everything worked out without any hiccups.
 
-`TODO: Upload a picture of the finished device`
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/TotalCircuit.jpg?raw=true "Prototype Switch")
+Prototype Circuit
 
 ### Writing the software
 
 The code design is shown below in the diagram.
 
-`TODO: Show the functional Diagram`
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Software_diagram.png?raw=true "Method Break Down")
+Method Break Down
 
 Translating the design to code was a fairly straight forward process. Keeping things simple in Embedded systems design means that space on the micro controller is preserved and that everything is running efficiently. 
 
