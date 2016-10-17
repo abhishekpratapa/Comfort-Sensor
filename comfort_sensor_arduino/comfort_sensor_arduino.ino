@@ -135,9 +135,9 @@ void clear_previous(){
 }
 
 /*
- * Method:  display_correct
+ * Method:  read_sensors
  * 
- * Action:  This method clears the Neo_pixels and sets the values of all the Neo_pixels to zero
+ * Action:  This method reads the DHT22 and places the proper data in an int pointer array
  * 
  * params:  *data_retrieved:  This is an Integer array pointer that stores the ones, and tens 
  *                            decimal places for the temperature and the humidity values.
