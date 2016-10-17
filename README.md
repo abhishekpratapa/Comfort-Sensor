@@ -77,11 +77,92 @@ Prototype Circuit
 The code design is shown below in the diagram.
 
 ![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Software_diagram.png?raw=true "Method Break Down")
-Method Break Down
+
+### Method Break Down
 
 Translating the design to code was a fairly straight forward process. Keeping things simple in Embedded systems design means that space on the micro controller is preserved and that everything is running efficiently. 
 
-`TODO: Show the method break down`
+#### Setup Method
+`
+/*
+ * Method:  setup
+ * 
+ * Action:  This method is the setup loop of the program, it sets up the
+ *          DHT22 and the Neopixel objects
+ * 
+ * params:  [None]
+ *          
+ * return:  void
+ * 
+ */
+`
+
+#### Loop Method
+
+`
+/*
+ * Method:  loop
+ * 
+ * Action:  This method is the main loop of the program, it structurally 
+ *          calls the other methods to make the program cohesive
+ * 
+ * params:  [None]
+ *          
+ * return:  void
+ * 
+ */
+`
+
+#### Display_correct Method
+
+`
+/*
+ * Method:  display_correct
+ * 
+ * Action:  This method takes in two parameters, displays the correct 
+ *          number of Neo_pixels and the correct color for those pixels
+ * 
+ * params:  value       Integer value to be displayed in the neo_pixels
+ *          sent_color: Enum type color, determines the color to be displayed 
+ *                      on the neo_pixels
+ *          
+ * return:  void
+ * 
+ */
+`
+
+#### Clear_previous Method
+
+`
+/*
+ * Method:  clear_previous
+ * 
+ * Action:  This method clears the Neo_pixels and sets the values of all the Neo_pixels to zero
+ * 
+ * params:  [None]
+ * 
+ * return:  void
+ * 
+ */
+`
+
+#### Read_sensors Method
+
+`
+/*
+ * Method:  read_sensors
+ * 
+ * Action:  This method reads the DHT22 and places the proper data in an int pointer array
+ * 
+ * params:  *data_retrieved:  This is an Integer array pointer that stores the ones, and tens 
+ *                            decimal places for the temperature and the humidity values.
+ *                            The first two indexes are the humidity reading and the second two 
+ *                            indexes are the temperature reading in [tens, ones] format.
+ * 
+ * return:  void
+ * 
+ */
+`
 
 ### Finalizing 
 
