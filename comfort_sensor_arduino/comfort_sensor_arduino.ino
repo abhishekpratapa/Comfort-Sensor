@@ -44,6 +44,17 @@ color temp_color = red;
 // store the ones and tens digits of both the humidity and temperature readings respectively
 int sensor_data[4];
 
+/*
+ * Method:  setup
+ * 
+ * Action:  This method is the setup loop of the program, it sets up the
+ *          DHT22 and the Neopixel objects
+ * 
+ * params:  [None]
+ *          
+ * return:  void
+ * 
+ */
 void setup() {
   
   // definition for an ATTiny
