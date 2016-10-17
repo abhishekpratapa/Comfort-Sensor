@@ -83,7 +83,7 @@ The code design is shown below in the diagram.
 Translating the design to code was a fairly straight forward process. Keeping things simple in Embedded systems design means that space on the micro controller is preserved and that everything is running efficiently. 
 
 #### Setup Method
-`
+```
 /*
  * Method:  setup
  * 
@@ -95,11 +95,11 @@ Translating the design to code was a fairly straight forward process. Keeping th
  * return:  void
  * 
  */
-`
+```
 
 #### Loop Method
 
-`
+```
 /*
  * Method:  loop
  * 
@@ -111,11 +111,11 @@ Translating the design to code was a fairly straight forward process. Keeping th
  * return:  void
  * 
  */
-`
+```
 
 #### Display_correct Method
 
-`
+```
 /*
  * Method:  display_correct
  * 
@@ -129,11 +129,11 @@ Translating the design to code was a fairly straight forward process. Keeping th
  * return:  void
  * 
  */
-`
+```
 
 #### Clear_previous Method
 
-`
+```
 /*
  * Method:  clear_previous
  * 
@@ -144,11 +144,11 @@ Translating the design to code was a fairly straight forward process. Keeping th
  * return:  void
  * 
  */
-`
+```
 
 #### Read_sensors Method
 
-`
+```
 /*
  * Method:  read_sensors
  * 
@@ -162,7 +162,7 @@ Translating the design to code was a fairly straight forward process. Keeping th
  * return:  void
  * 
  */
-`
+```
 
 ### Finalizing 
 
