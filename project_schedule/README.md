@@ -1,6 +1,6 @@
 # Project Schedule
 
-(Note: This is a special 24 hour project build)
+(Note: This is a special 48 hour project build)
 
 Start Time: October 16, 2016 4:30pm
 End Time:   October 17, 2016 TBD
