@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I've been having a bunch of headaches lately and I didn't know what the cause of those headaches was. Secondarily, during these migranes, I would notice that my mouth felt extreemly parched. Initially I had thought that the cause for these symptoms was that I wasn't drinking enough water. This, however, was not the case. I was drinking more than enough of my share of water and I was still feeling horrible. I needed to do something.
+I've been having a bunch of headaches lately and I didn't know what the cause of those headaches was. Secondarily, during these migraines, I would notice that my mouth felt extremely parched. Initially I had thought that the cause for these symptoms was that I wasn't drinking enough water. This, however, was not the case. I was drinking more than enough of my share of water and I was still feeling horrible. I needed to do something.
 
 I finally arrived on the conclusion that the environment around me was partially causing these symptoms. I decided to build a sensor that told me the humidity and temperature readings in my environment; it would sort of be like a comfort indicator to determine whether these headaches were caused by my surroundings.
 
@@ -12,7 +12,7 @@ I finally arrived on the conclusion that the environment around me was partially
 
 ### Planning the User Experience
 
-User Experience is most important when designing a device like this one. What do we want the user to see? Based off of the limited number of components I had avaliable to me I opted for an analog approach in displaying the temperature and the humidity. It would sort of be like a clock. The User Experience is illustrated below.
+User Experience is most important when designing a device like this one. What do we want the user to see? Based off of the limited number of components I had available to me I opted for an analog approach in displaying the temperature and the humidity. It would sort of be like a clock. The User Experience is illustrated below.
 
 `TODO: Add user-experience slides`
 
@@ -46,8 +46,13 @@ The code design is shown below in the diagram.
 
 `TODO: Show the functional Diagram`
 
-Translating the design to code was a fairly straight forward process. Keeping things simple in Embeeded systems design means that space on the microcontroller is preserved and that everything is running effeciently. 
+Translating the design to code was a fairly straight forward process. Keeping things simple in Embedded systems design means that space on the micro controller is preserved and that everything is running efficiently. 
 
 `TODO: Show the method break down`
 
 ### Finalizing 
+
+Here is a video of the prototype of the device
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/CA7ydEnhpj4/0.jpg)]
+(http://www.youtube.com/watch?v=CA7ydEnhpj4 "Prototype Video")
