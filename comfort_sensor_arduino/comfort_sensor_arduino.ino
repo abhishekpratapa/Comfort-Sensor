@@ -71,7 +71,7 @@ void loop() {
   read_sensors(&sensor_data[0]);
 
   for(int c=0; c<4; c++){
-    display_correct(sensor_data[c], (((int)(c/3)) == 0)? humidity_color:temp_color);
+    display_correct(sensor_data[c], (((int)(c/2)) == 0)? humidity_color:temp_color);
     clear_previous();
   }
 }
