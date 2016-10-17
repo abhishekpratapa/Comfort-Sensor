@@ -20,13 +20,39 @@ User Experience is most important when designing a device like this one. What do
 
 I began rummaging through my electronics and I managed to find a few components that I thought would be ideal to make such a device. They are listed below:
 
+#### Components in the Prototype
+
 - Neo Pixel Ring
 - Teensy 3.1
 - Battery Management Unit
 - Switch
 - DHT22 Humidity and Temperature Sensor
 
-`TODO: Place images of the components`
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Neo_pixels.jpg?raw=true "Neo Pixels")
+Neo Pixel Ring
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Teensy.jpg?raw=true "Teensy 3.1")
+Teensy 3.1
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Battery_management.jpg?raw=true "Battery Management Unit")
+Battery Management Unit
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Power_switch.jpg?raw=true "Power Switch")
+Switch
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/DHT22_sensor.jpg?raw=true "DHT22 Humidity and Temperature Sensor")
+DHT22 Humidity and Temperature Sensor
+
+#### Tools used to build the Prototype
+
+- Flush Cutters
+- Soldering Iron
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Flush_cutters.jpg?raw=true "Power Switch")
+Flush Cutters
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/Soldering_iron.jpg?raw=true "Power Switch")
+Soldering Iron
 
 ### Planing the wiring Diagram
 
