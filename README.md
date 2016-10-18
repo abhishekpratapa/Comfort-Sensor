@@ -170,3 +170,17 @@ Here is a video of the prototype of the device
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/CA7ydEnhpj4/0.jpg)]
 (http://www.youtube.com/watch?v=CA7ydEnhpj4 "Prototype Video")
+
+## PCB Design
+
+Here is the Schematic Design for the project. (Click on it to go to the PDF of the schematic)
+
+![IMAGE ALT TEXT](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/schematic_comfort_sensor.png?raw=true "PCB Layout")
+(https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/Comfort_Sensor_PCB/comfort_board.pdf "PDF Schematic")
+
+Here is the PCB design for the project.
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/PCB_layout.png?raw=true "PCB Layout")
+
+Please take a look at the eagle CAD and schematic designs in: https://github.com/abhishekpratapa/Comfort-Sensor/tree/master/Comfort_Sensor_PCB
+
