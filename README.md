@@ -186,7 +186,7 @@ Please take a look at the eagle CAD and schematic designs in: https://github.com
 
 ## Financing
 
-### Concrete Production (Brick and Mortar)
+### Low Volume
 
 #### Components
 
@@ -223,10 +223,10 @@ Please take a look at the eagle CAD and schematic designs in: https://github.com
 
 | Name of Consumable | Quantity | Supplier | Price | Shipping | URL |
 |   :---   |    :---     |     :---:      |     :---:      |     :---:     | :--- |
-| Solder Paste | 3 | Mouser | $23.50 | $4.89 | http://www.digikey.com/product-detail/en/SMD291AX/SMD291AX-ND/1160002?WT.mc_id=IQ_7595_G_pla1160002&wt.srch=1&wt.medium=cpc&WT.srch=1&gclid=CIOX_pWi5c8CFQ6TaQodopcPnw |
-
+| Solder Paste | 3 | Digi-Key | $23.50 | $4.89 | http://www.digikey.com/product-detail/en/SMD291AX/SMD291AX-ND/1160002 |
 
 #### Housing Costs
 
+#### Manufacturing Costs
 
 
