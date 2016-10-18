@@ -213,7 +213,7 @@ Please take a look at the eagle CAD and schematic designs in: https://github.com
 | 10 kOhm Resistor 0805 | 2 | Mouser | $0.17 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/KTR10EZPF1002/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LweGk5BfWf21pU%3d |
 | 150 kOhm Resistor 0805 | 1 | Mouser | $0.15 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR10EZPF1503/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0Lwe41fW0x%2fX95k%3d |
 | 22pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206A220JXJCW1BC/?qs=sGAEpiMZZMs0AnBnWHyRQAR7at33PD0%252bkVtEu2CEPmo%3d |
-| 10pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/AVX/0805YD106KAT2A/?qs=dV90weSEKCml0j81AJ8E6Q%3D%3D |
+| 10pF Capicator 0805 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/AVX/0805YD106KAT2A/?qs=dV90weSEKCml0j81AJ8E6Q%3D%3D |
 
 #### PCB Cost
 
