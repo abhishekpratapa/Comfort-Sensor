@@ -173,17 +173,27 @@ Here is a video of the prototype of the device
 
 ## Specing all the PCB components
 
-| Name of Component | Supplier | Price | Shipping | URL |
-|    :---     |     :---:      |     :---:     | :---: | :--- |
-| ATMega328  | Mouser | $3.70 | $4.70 | http://www.mouser.com/ProductDetail/Atmel/ATMEGA328P-PU/?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D&gclid=CNLnypKQ488CFQEJaQodVeQNbA |
-| Crystal 16MHz | Mouser | $0.36 | $-.--  | http://www.mouser.com/ProductDetail/CTS/ATS16B-E/?qs=tjlMjqRIEYTG8fmTS%252b7FfQ%3D%3D&gclid=CMWL4dOQ488CFQipaQodB0oNbg |
-| DHT22  | Ebay | $3.70 | $0.00 | http://www.ebay.com/itm/New-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Replace-SHT11-SHT15-Arduino/162147611172?_trksid=p2141725.c100338.m3726&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20150313114020%26meid%3D46b7678c63d741b484085e9a816a9452%26pid%3D100338%26rk%3D6%26rkt%3D30%26sd%3D221546295018 |
-| Mini-Pushbutton | Sparkfun | $0.35 | $2.35  | https://www.sparkfun.com/products/97 |
-| Neo-Pixel Ring | Adafruit | $7.50 | $4.75  | https://www.adafruit.com/products/1643?gclid=CMuP2r6R5c8CFYE2aQodMi0GSg |
-| USB Mini B | Mouser | $0.76 | $1.25  | http://www.mouser.com/ProductDetail/CUI/UJ2-MBH-1-SMT/?qs=sGAEpiMZZMulM8LPOQ%252byk%252br6FietFiXBYOK8b9%2fsuNIy0pbKqeLWLA%3d%3d |
-| LiPo 3.7V battery pack | Mouser | $13.68 | $4.25  | http://www.mouser.com/ProductDetail/Renata/ICP402025PC-1/?qs=WtvvTbtNXq%252bQv7inF4n3oA%3d%3d |
-| JST-Connector | Mouser | $0.95 | $-.--  | https://www.sparkfun.com/products/9749 |
-
+| Name of Component | Quantity | Supplier | Price | Shipping | URL |
+|    :---     |     :---:      |     :---:      |     :---:     | :---: | :--- |
+| ATMega328  | 1 | Mouser | $3.70 | $4.70 | http://www.mouser.com/ProductDetail/Atmel/ATMEGA328P-PU/?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D&gclid=CNLnypKQ488CFQEJaQodVeQNbA |
+| Crystal 16MHz | 1 | Mouser | $0.36 | $-.--  | http://www.mouser.com/ProductDetail/CTS/ATS16B-E/?qs=tjlMjqRIEYTG8fmTS%252b7FfQ%3D%3D&gclid=CMWL4dOQ488CFQipaQodB0oNbg |
+| DHT22  | 1 | Ebay | $3.70 | $-.-- | http://www.ebay.com/itm/New-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Replace-SHT11-SHT15-Arduino/162147611172?_trksid=p2141725.c100338.m3726&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20150313114020%26meid%3D46b7678c63d741b484085e9a816a9452%26pid%3D100338%26rk%3D6%26rkt%3D30%26sd%3D221546295018 |
+| Mini-Pushbutton | 1 | Sparkfun | $0.35 | $2.35  | https://www.sparkfun.com/products/97 |
+| Neo-Pixel Ring | 1 | Adafruit | $7.50 | $4.75  | https://www.adafruit.com/products/1643?gclid=CMuP2r6R5c8CFYE2aQodMi0GSg |
+| USB Mini B | 1 | Mouser | $0.76 | $1.25  | http://www.mouser.com/ProductDetail/CUI/UJ2-MBH-1-SMT/?qs=sGAEpiMZZMulM8LPOQ%252byk%252br6FietFiXBYOK8b9%2fsuNIy0pbKqeLWLA%3d%3d |
+| LiPo 3.7V battery pack | 1 | Mouser | $13.68 | $4.25  | http://www.mouser.com/ProductDetail/Renata/ICP402025PC-1/?qs=WtvvTbtNXq%252bQv7inF4n3oA%3d%3d |
+| JST-Connector | 1 | Mouser | $0.95 | $-.--  | https://www.sparkfun.com/products/9749 |
+| 0805 LED | 1 | DigiKey | $0.50 | $4.58  | http://www.digikey.com/product-detail/en/kingbright/APT2012SECK-J3-PRV/754-1791-1-ND/4753616 |
+| Surface Mount Right Angle Switch | 1 | SparkFun | $0.48 |  $-.--  | https://www.sparkfun.com/products/10860 |
+| Battery Management Chip | 1 | Mouser | $0.94 |  $-.--  | http://www.mouser.com/ProductDetail/Microchip-Technology/MCP73833T-AMI-MF/?qs=Fxu3fLyJv8epbqy6GsGQQA%3D%3D |
+| JST 3-pin  | 1 | SparkFun | $1.50 |  $-.--  | https://www.sparkfun.com/products/9915 |
+| 10K Resistor 1206 | 2 | Mouser | $0.19 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/KTR18EZPF1002/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LweN2wTdK7f9y4%3d |
+| 150 Ohm Resistor 0805 | 1 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR10EZPJ151/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0Lwe25OmOs7YyvE%3d |
+| 1 kOhm Resistor 0805 | 1 | Mouser | $0.15 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR10EZPF1001/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LwesgDXVtvvnU8%3d |
+| 10 kOhm Resistor 0805 | 2 | Mouser | $0.17 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/KTR10EZPF1002/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LweGk5BfWf21pU%3d |
+| 150 kOhm Resistor 0805 | 1 | Mouser | $0.15 |  $-.--  | http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR10EZPF1503/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0Lwe41fW0x%2fX95k%3d |
+| 22pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206A220JXJCW1BC/?qs=sGAEpiMZZMs0AnBnWHyRQAR7at33PD0%252bkVtEu2CEPmo%3d |
+| 10pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/AVX/0805YD106KAT2A/?qs=dV90weSEKCml0j81AJ8E6Q%3D%3D |
 
 ## PCB Design
 
