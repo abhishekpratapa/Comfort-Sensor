@@ -171,7 +171,24 @@ Here is a video of the prototype of the device
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/CA7ydEnhpj4/0.jpg)]
 (http://www.youtube.com/watch?v=CA7ydEnhpj4 "Prototype Video")
 
-## Specing all the PCB components
+## PCB Design
+
+Here is the Schematic Design for the project. (Click on it to go to the PDF of the schematic)
+
+[![IMAGE ALT TEXT](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/schematic_comfort_sensor.png)]
+(https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/Comfort_Sensor_PCB/comfort_board.pdf "PDF Schematic")
+
+Here is the PCB design for the project.
+
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/PCB_layout.png?raw=true "PCB Layout")
+
+Please take a look at the eagle CAD and schematic designs in: https://github.com/abhishekpratapa/Comfort-Sensor/tree/master/Comfort_Sensor_PCB
+
+## Financing
+
+### Concrete Production (Brick and Mortar)
+
+#### Components
 
 | Name of Component | Quantity | Supplier | Price | Shipping | URL |
 |    :---     |     :---:      |     :---:      |     :---:     | :---: | :--- |
@@ -195,16 +212,21 @@ Here is a video of the prototype of the device
 | 22pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/Vishay-Vitramon/VJ1206A220JXJCW1BC/?qs=sGAEpiMZZMs0AnBnWHyRQAR7at33PD0%252bkVtEu2CEPmo%3d |
 | 10pF Capicator 1206 | 2 | Mouser | $0.10 |  $-.--  | http://www.mouser.com/ProductDetail/AVX/0805YD106KAT2A/?qs=dV90weSEKCml0j81AJ8E6Q%3D%3D |
 
-## PCB Design
+#### PCB Cost
 
-Here is the Schematic Design for the project. (Click on it to go to the PDF of the schematic)
+| Quantity | Supplier | Price | Shipping |
+|    :---     |     :---:      |     :---:      |     :---:     |
+| 3 | Osh Park | $23.50 | $12.50 |
+| 40 | Osh Park | $188.00 | $12.50 |
 
-[![IMAGE ALT TEXT](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/schematic_comfort_sensor.png)]
-(https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/Comfort_Sensor_PCB/comfort_board.pdf "PDF Schematic")
+#### Consumables
 
-Here is the PCB design for the project.
+| Name of Consumable | Quantity | Supplier | Price | Shipping | URL |
+|   :---   |    :---     |     :---:      |     :---:      |     :---:     | :--- |
+| Solder Paste | 3 | Mouser | $23.50 | $4.89 | http://www.digikey.com/product-detail/en/SMD291AX/SMD291AX-ND/1160002?WT.mc_id=IQ_7595_G_pla1160002&wt.srch=1&wt.medium=cpc&WT.srch=1&gclid=CIOX_pWi5c8CFQ6TaQodopcPnw |
 
-![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/PCB_layout.png?raw=true "PCB Layout")
 
-Please take a look at the eagle CAD and schematic designs in: https://github.com/abhishekpratapa/Comfort-Sensor/tree/master/Comfort_Sensor_PCB
+#### Housing Costs
+
+
 
