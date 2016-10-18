@@ -177,7 +177,7 @@ Here is a video of the prototype of the device
 |    :---     |     :---:      |     :---:      |     :---:     | :---: | :--- |
 | ATMega328  | 1 | Mouser | $3.70 | $4.70 | http://www.mouser.com/ProductDetail/Atmel/ATMEGA328P-PU/?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D&gclid=CNLnypKQ488CFQEJaQodVeQNbA |
 | Crystal 16MHz | 1 | Mouser | $0.36 | $-.--  | http://www.mouser.com/ProductDetail/CTS/ATS16B-E/?qs=tjlMjqRIEYTG8fmTS%252b7FfQ%3D%3D&gclid=CMWL4dOQ488CFQipaQodB0oNbg |
-| DHT22  | 1 | Ebay | $3.70 | $-.-- | http://www.ebay.com/itm/New-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Replace-SHT11-SHT15-Arduino/162147611172?_trksid=p2141725.c100338.m3726&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20150313114020%26meid%3D46b7678c63d741b484085e9a816a9452%26pid%3D100338%26rk%3D6%26rkt%3D30%26sd%3D221546295018 |
+| DHT22  | 1 | Ebay | $3.70 | $-.-- | http://www.ebay.com/itm/New-DHT22-AM2302-Digital-Temperature-Humidity-Sensor-Replace-SHT11-SHT15-Arduino/162147611172 |
 | Mini-Pushbutton | 1 | Sparkfun | $0.35 | $2.35  | https://www.sparkfun.com/products/97 |
 | Neo-Pixel Ring | 1 | Adafruit | $7.50 | $4.75  | https://www.adafruit.com/products/1643?gclid=CMuP2r6R5c8CFYE2aQodMi0GSg |
 | USB Mini B | 1 | Mouser | $0.76 | $1.25  | http://www.mouser.com/ProductDetail/CUI/UJ2-MBH-1-SMT/?qs=sGAEpiMZZMulM8LPOQ%252byk%252br6FietFiXBYOK8b9%2fsuNIy0pbKqeLWLA%3d%3d |
