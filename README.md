@@ -2,6 +2,8 @@
 
 # Comfort-Sensor
 
+This is a walk through of designing and manufacturing a microcontroller based project. The goal is to design a consumer product.
+
 ## Introduction
 
 I've been having a bunch of headaches lately and I didn't know what the cause of those headaches was. Secondarily, during these migraines, I would notice that my mouth felt extremely parched. Initially I had thought that the cause for these symptoms was that I wasn't drinking enough water. This, however, was not the case. I was drinking more than enough of my share of water and I was still feeling horrible. I needed to do something.
