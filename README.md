@@ -14,9 +14,10 @@ I finally arrived on the conclusion that the environment around me was partially
 
 ### Planning the User Experience
 
-User Experience is most important when designing a device like this one. What do we want the user to see? Based off of the limited number of components I had available to me I opted for an analog approach in displaying the temperature and the humidity. It would sort of be like a clock. The User Experience is illustrated below.
+User Experience is most important when designing a device like this one. What do we want the user to see? Based off of the limited number of components I had available to me I opted for an analog approach in displaying the temperature and the humidity. It would sort of be like a clock. PLEASE spend more time than I did on this. You need to nail this in order to retain customers or users. The User Experience is illustrated below.
 
-`TODO: Add user-experience slides`
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/images/User_Experience_Design.jpg?raw=true "Soldering Iron")
+A Design Prototype
 
 ### List of Components
 
