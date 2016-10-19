@@ -187,6 +187,10 @@ Here is the PCB design for the project.
 
 Please take a look at the eagle CAD and schematic designs in: https://github.com/abhishekpratapa/Comfort-Sensor/tree/master/Comfort_Sensor_PCB
 
+Here is a rendering of the Circuit in Solidworks
+![Alt text](https://github.com/abhishekpratapa/Comfort-Sensor/blob/master/Comfort_Sensor_Solidworks/images/Circuit_render.JPG?raw=true "PCB Layout")
+
+
 ## Financing
 
 ### Low Volume
