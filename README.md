@@ -1,5 +1,3 @@
-(NOTE: Looking for a job. I'd want to do this every day.)
-
 # Comfort-Sensor
 
 This is a walk through of designing and manufacturing a microcontroller based project. The goal is to design a consumer product.
