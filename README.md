@@ -8,6 +8,8 @@ I've been having a bunch of headaches lately and I didn't know what the cause of
 
 I finally arrived on the conclusion that the environment around me was partially causing these symptoms. I decided to build a sensor that told me the humidity and temperature readings in my environment; it would sort of be like a comfort indicator to determine whether these headaches were caused by my surroundings.
 
+In the future I'd like to expand it to be able to detect bacterial and hygiene levels in the air. Think of it as sort of a smoke detector for bacteria and all health related things.
+
 ## Prototyping
 
 ### Planning the User Experience
