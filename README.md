@@ -2,13 +2,13 @@
 
 This is a walk through of designing and manufacturing a microcontroller based project. The goal is to design a consumer product.
 
+My new product is developed from this idea. It is capable of detecting the hygine levels in any environment. Bacteria, Mold, Dust, Hydrocarbon gases. Please email me if you have any questions or are interested in ordering such a product for your family. abhishekpratapa@gmail.com
+
 ## Introduction
 
 I've been having a bunch of headaches lately and I didn't know what the cause of those headaches was. Secondarily, during these migraines, I would notice that my mouth felt extremely parched. Initially I had thought that the cause for these symptoms was that I wasn't drinking enough water. This, however, was not the case. I was drinking more than enough of my share of water and I was still feeling horrible. I needed to do something.
 
 I finally arrived on the conclusion that the environment around me was partially causing these symptoms. I decided to build a sensor that told me the humidity and temperature readings in my environment; it would sort of be like a comfort indicator to determine whether these headaches were caused by my surroundings.
-
-In the future I'd like to expand it to be able to detect bacterial and hygiene levels in the air. Think of it as sort of a smoke detector for bacteria and all health related things.
 
 ## Prototyping
 
